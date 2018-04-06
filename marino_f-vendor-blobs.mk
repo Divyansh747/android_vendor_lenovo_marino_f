@@ -19,7 +19,7 @@ PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/lenovo/marino_f/ven
 
 PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/lenovo/marino_f/usr,system/usr)
 
-PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/lenovo/marino_f/xbin,system/xbin)
+#PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/lenovo/marino_f/xbin,system/xbin)
 
 #PRODUCT_COPY_FILES += $(call find-copy-subdir-files,*,vendor/lenovo/marino_f/vendor/xbin,system/vendor/xbin)
 
